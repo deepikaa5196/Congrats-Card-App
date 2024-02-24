@@ -8,7 +8,7 @@ const element = (
       ></img>
       <h1 className="name">Kiran V</h1>
       <p className="paragraph">
-        Vishnu Institute of Computer Education and Technology,Bhimavaram.
+        Vishnu Institute of Computer Education and Technology, Bhimavaram.
       </p>
       <img
         className="watch"
